@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hey there, I'm Emmanuel Akwasi Opoku</h1>
-<h3 align="center">🚀 Passionate Computer Science Student | Web Developer | AI & Robotics Enthusiast</h3>
+<h1 align="center"> Hey there, I'm Emmanuel Akwasi Opoku</h1>
+<h3 align="center"> Passionate Computer Science Student | Web Developer | AI & Robotics Enthusiast</h3>
 
 ---
 
-### 🌟 About Me
+###  About Me
 🎓 Freshman Computer Science Major @ **Grambling State University**  
 💡 Exploring intersections of **AI, Web Development, and Robotics**  
 ⚙️ Building practical projects in **IoT, full-stack apps, and AI tools**  
