@@ -15,7 +15,7 @@
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadamannie/)
 [![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](https://fadmann.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Fada-Mannie)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/emmanuelakwasi)
 
 ---
 
