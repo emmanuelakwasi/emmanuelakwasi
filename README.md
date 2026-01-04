@@ -33,7 +33,7 @@ Git | VS Code | Postman | Figma | Electron | Vercel | SiteGround
 > A restaurant web app built with Flask + CSV, allowing admins to manage menus, orders, and payments.
 
 ####  [QueenMart - African Grocery Store](https://github.com/Fada-Mannie/queenmart-frontend)
-> E-commerce platform for African grocery items built with React, Node.js, MongoDB, and Stripe.
+> E-commerce platform for African grocery items built with React, Node.js, MongoDB, and Stripe..
 
 ####  [LeetCoach-Lite (AI Interview Prep Platform)](https://github.com/Fada-Mannie/LeetCoach-Lite)
 > AI-powered coding interview prep platform that recommends smart practice questions.
